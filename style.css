@@ -29,7 +29,7 @@ header h1 { margin-bottom: 10px; }
   object-fit: cover;
 }
 
-
+/** quero ser sincero, utilizei alguns videos e instruçoes para melhorar o css do site, tinham coisas que eu não sabia como tirar do pensamento, precisei dar uma estudada **/
 main {
   max-width: 800px;
   margin: 20px auto;
@@ -101,3 +101,4 @@ footer {
     border-radius: 8px;
     margin-bottom: 10px;
 }
+
