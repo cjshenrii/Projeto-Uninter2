@@ -28,6 +28,12 @@ header h1 { margin-bottom: 10px; }
   border-radius: 50%;
   object-fit: cover;
 }
+.foto-formei {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  }
 
 /** quero ser sincero, utilizei alguns videos e instruçoes para melhorar o css do site, tinham coisas que eu não sabia como tirar do pensamento, precisei dar uma estudada **/
 main {
@@ -101,4 +107,5 @@ footer {
     border-radius: 8px;
     margin-bottom: 10px;
 }
+
 
